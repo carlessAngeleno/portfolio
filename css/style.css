@@ -1,4 +1,7 @@
-#portfolio .portfolio-item .img-responsive {
-  border: 0px solid rgba(44, 62, 80, 0.84);
-  border-radius: 10px;
+/* Override freelancer.css */
+#about .portfolio-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
 }
